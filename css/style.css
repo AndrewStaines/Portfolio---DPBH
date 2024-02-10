@@ -259,6 +259,10 @@ h2{
 
 }
 
+.pdt{
+    margin-left: -150px;
+}
+
 .pdt p{
     font-family: 'Poppins', sans-serif;
     font-weight: 400; 
@@ -274,6 +278,6 @@ h2{
 }
 
 .ch{
-    margin-left: 440px;
+    margin-left: 490px;
     box-shadow: 0 0 10px aliceblue;
 }
