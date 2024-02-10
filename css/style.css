@@ -281,3 +281,7 @@ h2{
     margin-left: 490px;
     box-shadow: 0 0 10px aliceblue;
 }
+.vch{
+    display: none;
+    box-shadow: 0 0 10px aliceblue;
+}
